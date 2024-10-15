@@ -54,6 +54,7 @@
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Pygame](https://custom-icon-badges.demolab.com/badge/pygame-150458.svg?logo=grey-pygame)
 
 ### Software and Tools
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
