@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Bhavya! 🧑‍💻
 ## 💫 About Me:
-🔭 I’m currently working on app development.<br>
-🌱 I’m currently learning MERN.<br>
-👯 I’m looking to collaborate on hackathons.<br>
+🔭 I’m currently working on software projects.<br>
+🌱 I’m currently learning project development.<br>
+👯 I’m looking to collaborate on projects.<br>
 
 
 ## 🌐 Socials:
