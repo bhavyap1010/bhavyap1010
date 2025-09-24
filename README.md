@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Bhavya! 🧑‍💻
 ## 💫 About Me:
-🔭 I’m currently working on software projects.<br>
-🌱 I’m currently learning project development.<br>
-👯 I’m looking to collaborate on projects.<br>
+🔭 I’m currently working on building FinTech applications and experimenting with AI integration.<br>
+🌱 I’m currently learning advanced machine learning techniques, CoreML tools, and how to automate everyday tasks with Python.<br>
+👯 I’m looking to collaborate on open-source projects that make technology more equitable and accessible for everyone.<br>
 
 
 ## 🌐 Socials:
